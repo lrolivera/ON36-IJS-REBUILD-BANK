@@ -4,7 +4,7 @@
  <p><a align="center"><img src="https://github.com/lrolivera/ON36-IJS-REBUILD-BANK/blob/main/rebuild-bank-png.png" width="80" height="80"</a> </p>
   
 ## RebuildBank
-##### O RebuildBank é um conceito fictício de banco comunitário voltado para moradores de rua, focado em proporcionar acesso inclusivo a serviços financeiros e apoio social.
+##### O RebuildBank é um conceito de banco comunitário voltado para moradores de rua, focado em proporcionar acesso inclusivo a serviços financeiros e apoio social.
 
 ## Objetivo
 ##### O objetivo do RebuildBank é oferecer uma plataforma financeira acessível e adaptada às necessidades únicas de pessoas em situação de vulnerabilidade social, promovendo a inclusão financeira e a autonomia econômica.
