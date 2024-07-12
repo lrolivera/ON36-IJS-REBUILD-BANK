@@ -15,5 +15,5 @@
 ##### Educação Financeira Personalizada: Capacitação para gestão financeira responsável.
 ##### Suporte Social Integrado: Colaboração com organizações locais para acesso a moradia, saúde e emprego.
 
-##### Contribuições
+### Contribuições
 ###### Este repositório contém documentos detalhando os serviços oferecidos pelo RebuildBank, fluxos de processos e diagramas para facilitar a compreensão e contribuições.
