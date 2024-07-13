@@ -2,3 +2,4 @@
  Projeto Integrador do curso de Imersão ao JavaScript com foco em AWS do Reprograma.
 
  ### Semana 01
+#### Diagrama de Classe
