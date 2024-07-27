@@ -1,0 +1,131 @@
+[
+    {
+        "id": 1,
+        "nome": "Maria Oliveira",
+        "cpf": "987.654.321-00",
+        "endereco": "Av. Central, 456",
+        "telefone": "(31) 91234-5678",
+        "Contas": [
+            {
+                "saldoInicial": 12000,
+                "tipo": "poupanca"
+            },
+            {
+                "saldoInicial": 2000,
+                "tipo": "corrente"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "nome": "Carlos Souza",
+        "cpf": "234.567.890-12",
+        "endereco": "Rua das Flores, 789",
+        "telefone": "(51) 98123-4567",
+        "Contas": [
+            {
+                "saldoInicial": 3500,
+                "tipo": "corrente"
+            },
+            {
+                "saldoInicial": 1500,
+                "tipo": "poupanca"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "nome": "Ana Paula",
+        "cpf": "876.543.210-09",
+        "endereco": "Rua das Palmeiras, 101",
+        "telefone": "(61) 98123-7890",
+        "Contas": [
+            {
+                "saldoInicial": 3000,
+                "tipo": "poupanca"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "nome": "Felipe Costa",
+        "cpf": "567.890.123-45",
+        "endereco": "Av. das Nações, 234",
+        "telefone": "(81) 91234-8901",
+        "Contas": [
+            {
+                "saldoInicial": 7000,
+                "tipo": "corrente"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "nome": "Luciana Silva",
+        "cpf": "654.321.987-00",
+        "endereco": "Rua dos Ipês, 345",
+        "telefone": "(71) 98123-4567",
+        "Contas": [
+            {
+                "saldoInicial": 9000,
+                "tipo": "poupanca"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "nome": "Ricardo Almeida",
+        "cpf": "345.678.901-23",
+        "endereco": "Av. do Sol, 567",
+        "telefone": "(81) 98123-6789",
+        "Contas": [
+            {
+                "saldoInicial": 6000,
+                "tipo": "corrente"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "nome": "Fernanda Lima",
+        "cpf": "432.109.876-54",
+        "endereco": "Rua das Acácias, 678",
+        "telefone": "(51) 99123-4567",
+        "Contas": [
+            {
+                "saldoInicial": 4000,
+                "tipo": "poupanca"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "nome": "Diego Martins",
+        "cpf": "321.098.765-43",
+        "endereco": "Av. Brasil, 789",
+        "telefone": "(61) 99123-6789",
+        "Contas": [
+            {
+                "saldoInicial": 12000,
+                "tipo": "corrente"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "nome": "Isabela Rocha",
+        "cpf": "210.987.654-32",
+        "endereco": "Rua das Palmeiras, 890",
+        "telefone": "(71) 98123-8901",
+        "Contas": [
+            {
+                "saldoInicial": 8000,
+                "tipo": "poupanca"
+            },
+            {
+                "saldoInicial": 2500,
+                "tipo": "corrente"
+            }
+        ]
+    }
+]
